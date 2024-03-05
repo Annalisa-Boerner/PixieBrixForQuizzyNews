@@ -4,9 +4,9 @@ Documentation of my PixieBrix project on behalf of Quizzy.News
 **Goal**: Create a user-friendly frontend/GUI for daily news quiz generation and editing so that we can pass the content into our Quizzy.News news game app
 
 **Tools**: 
-+PixieBrix, a “human-in-the-loop” automation tool that lives in Chrome extensions and can generate a user-initiated flow of actions ranging from http and ChatGPT requests to interactions with third-party software; automation flows are referred to as “mods”
-+NewsAPI, a source for news headlines
-+Firebase, our storage system for generated quiz content
++ PixieBrix, a “human-in-the-loop” automation tool that lives in Chrome extensions and can generate a user-initiated flow of actions ranging from http and ChatGPT requests to interactions with third-party software; automation flows are referred to as “mods”
++ NewsAPI, a source for news headlines
++ Firebase, our storage system for generated quiz content
 
 **Steps**:
 + Request news articles from NewsAPI using sources from the political center, as ranked by AllSides.com (I chose Newsweek)
