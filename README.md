@@ -18,4 +18,4 @@ Documentation of my PixieBrix project on behalf of Quizzy.News
 + Create the frontend to display/edit/approve the ChatGPT response
 + Submit final quiz to Firebase (with an approved:true property)
 
-+ ## See the PDF in the repo for screenshots of the mod itself!##
++ ## See the PDF in the repo for screenshots of the mod itself!
